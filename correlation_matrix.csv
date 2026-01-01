@@ -1,0 +1,6 @@
+,rating,helpful_count,review_length,normalized_rating,is_verified_numeric
+rating,1.0,0.02,-0.13,1.0,0.0
+helpful_count,0.02,1.0,0.37,0.02,0.01
+review_length,-0.13,0.37,1.0,-0.13,-0.08
+normalized_rating,1.0,0.02,-0.13,1.0,0.0
+is_verified_numeric,0.0,0.01,-0.08,0.0,1.0
